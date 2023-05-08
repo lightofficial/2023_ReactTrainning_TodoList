@@ -1,7 +1,8 @@
 
 
 <div align="center">
-<h1> FRONT-END OF RESUME-PARSE PROJECT </h1>
+<h1> TODO LIST </h1>
+<h2> Training First Deploy </h2>
 
 ---
 #### WEBSITE DEPLOY
